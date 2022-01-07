@@ -84,6 +84,11 @@ header nav {
 }
 
 /********* GitHub Projects Setup *********/
+.project_heading {
+    text-align: center;
+    padding-top: 30px;
+}
+
 .card{
     float: left;
     text-align: center;
