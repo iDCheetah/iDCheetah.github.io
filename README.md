@@ -1,1 +1,1 @@
-# Sample GitHub Portfolio
+# Example GitHub Portfolio
